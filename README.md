@@ -1,5 +1,7 @@
 # Blinkt_Sales_Analysis_Dashboard
 
+![image alt](blinkit_dashboard.jpeg)
+
 ## Project Overview
 This project analyzes Blinkit sales data using Power BI to uncover insights about sales performance, outlet types, item categories, and customer ratings. The dashboard helps understand business trends and supports data-driven decision making.
 
@@ -29,4 +31,4 @@ This project analyzes Blinkit sales data using Power BI to uncover insights abou
 - KPI Dashboard Creation
 - Business Insight Generation
 
-![image alt](blinkit_dashboard.jpeg)
+
