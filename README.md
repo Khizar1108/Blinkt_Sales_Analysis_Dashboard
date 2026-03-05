@@ -28,3 +28,5 @@ This project analyzes Blinkit sales data using Power BI to uncover insights abou
 - Data Visualization
 - KPI Dashboard Creation
 - Business Insight Generation
+
+![image alt](blinkit_dashboard.jpeg)
