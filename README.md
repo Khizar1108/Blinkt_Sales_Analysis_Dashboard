@@ -31,4 +31,5 @@ This project analyzes Blinkit sales data using Power BI to uncover insights abou
 - KPI Dashboard Creation
 - Business Insight Generation
 
+# dataset(https://github.com/Khizar1108/Blinkt_Sales_Analysis_Dashboard/blob/4dd226202db8747a68bff0ff9854a9de9bcc0eac/BlinkIT%20Grocery%20Data%20(1).xlsx) 
 
